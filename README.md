@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @H3Art-q
+# 👋 Hi, I’m H3Art.
+
 ```C++
 #include <iostream>
 
 int main(void){
-  std::cout << "Hello, world!" << endl;
+  std::cout << "Hello, Github!" << endl;
   return 0;
 }
 ```
