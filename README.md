@@ -1,10 +1,19 @@
 # 👋 Hi, I’m H3Art.
 
-```C++
-#include <iostream>
+```C
+#include <stdio.h>
+#include <time.h>
 
-int main(void){
-  std::cout << "Hello, Github!" << endl;
+char whatIWantToSay[] = "There is no magic in the computer world.\n";
+
+int main(int argc, char *argv[]) {
+  for (int i = 0; whatIWantToSay[i] != '\0';) {
+    clock_t start = clock();
+    while (clock() - start < CLOCKS_PER_SEC / 10)
+      ;
+    putc(whatIWantToSay[i++], stdout);
+    fflush(stdout);
+  }
   return 0;
 }
 ```
