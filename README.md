@@ -1,4 +1,4 @@
-# 👋 Hi, I’m H3Art-q.
+# 👋 Hi, I’m $\text{H3Art-q}$.
 # 👇 There is a piece of code.(Yes, it is.)
 
 ```C
