@@ -1,13 +1,13 @@
-# ❤这里是哈特。This is $\text{H3Art}$.
+# ❤这里是**哈特**。This is $\text{H3Art}$.
 
-# 😋来自广东潮州。I am from Chaozhou, Guangdong.
+😋来自**广东潮州**。I am from **Chaozhou, Guangdong**.
 
-# 😇我是学生。I am a student.
+😇我是**学生**。I am a **student**.
 - 2009 - 2018 Chao'an Experimental School(Chaozhou, Guangdong)
 - 2018 - 2021 Chaozhou Jinshan Middle School(Chaozhou, Guangdong)
 - 2021 - .... Jinan University(Guangzhou, Guangdong)
 
-# 💻我在国际学院计算机科学与技术专业攻读本科学位。I am pursuing my undergraduate degree in Computer Science and Technology at International School.
+💻我在国际学院**计算机科学与技术**专业攻读本科学位。I am pursuing my undergraduate degree in Computer Science & Technology(CST) at International School.
 ```c
 char motto[] = "There is no magic in the computer world.\n"
 ```
