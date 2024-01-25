@@ -1,22 +1,15 @@
-# 👋 Hi, I’m $\text{H3Art-q}$.
-# 👇 There is a piece of code.(Yes, it is.)
+# ❤这里是哈特。This is $\text{H3Art}$.
 
-```C
-#include <stdio.h>
-#include <time.h>
+# 😋来自广东潮州。I am from Chaozhou, Guangdong.
 
-char whatIWantToSay[] = "There is no magic in the computer world.\n";
+# 😇我是学生。I am a student.
+- 2009 - 2018 Chao'an Experimental School(Chaozhou, Guangdong)
+- 2018 - 2021 Chaozhou Jinshan Middle School(Chaozhou, Guangdong)
+- 2021 - .... Jinan University(Guangzhou, Guangdong)
 
-int main(int argc, char *argv[]) {
-  for (int i = 0; whatIWantToSay[i] != '\0';) {
-    clock_t start = clock();
-    while (clock() - start < CLOCKS_PER_SEC / 10)
-      ;
-    putc(whatIWantToSay[i++], stdout);
-    fflush(stdout);
-  }
-  return 0;
-}
+# 💻我在国际学院计算机科学与技术专业攻读本科学位。I am pursuing my undergraduate degree in Computer Science and Technology at International School.
+```c
+char motto[] = "There is no magic in the computer world.\n"
 ```
 
 <!---
