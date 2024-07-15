@@ -7,7 +7,7 @@
 - 2018 - 2021 潮州市金山中学 Chaozhou Jinshan Middle School
 - 2021 - .... 暨南大学 Jinan University
 
-💻我在国际学院**计算机科学与技术**专业攻读本科学位。I am pursuing my undergraduate degree in Computer Science & Technology(CST) at International School.
+💻我在国际学院**计算机科学与技术**专业攻读本科学位。I am pursuing my Bachelor of Engineering degree in Computer Science & Technology(CST) at International School.
 ```c
 char motto[] = "There is no magic in the computer world.\n"
 ```
