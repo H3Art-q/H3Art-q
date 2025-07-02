@@ -7,7 +7,7 @@
 - 2018 - 2021 潮州市金山中学 Chaozhou Jinshan High School
 - 2021 - .... 暨南大学 Jinan University
 
-💻我即将获得**计算机科学与技术**本科学位，并将继续攻读人工智能硕士学位。I will be graduating from a bachelor's degree in Computer Science and Technology and will be pursuing a master's degree in Artificial Intelligence.
+💻我在暨南大学获得**计算机科学与技术**本科学位，并将继续攻读**人工智能**硕士学位。I am graduated from a bachelor's degree in **Computer Science and Technology** and will be pursuing a master's degree in **Artificial Intelligence** all from Jinan University.
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=h3art-q&show_icons=true&layout=compact&hide=prs" />
