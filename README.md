@@ -10,7 +10,7 @@
 💻我在暨南大学获得**计算机科学与技术**本科学位，并将继续攻读**人工智能**硕士学位。I am graduated from a bachelor's degree in **Computer Science and Technology** and will be pursuing a master's degree in **Artificial Intelligence** all from Jinan University.
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=h3art-q&show_icons=true&layout=compact&hide=prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=h3art-q&show_icons=true&layout=compact&hide=prs&hide_rank=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3art-q&layout=compact&hide=javascript,html,css" />
